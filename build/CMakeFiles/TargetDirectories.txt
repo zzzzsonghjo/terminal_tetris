@@ -1,0 +1,3 @@
+C:/Users/zhouchenyu/Documents/code/games/tetris/build/CMakeFiles/tetris.dir
+C:/Users/zhouchenyu/Documents/code/games/tetris/build/CMakeFiles/edit_cache.dir
+C:/Users/zhouchenyu/Documents/code/games/tetris/build/CMakeFiles/rebuild_cache.dir

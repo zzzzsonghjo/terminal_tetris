@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/zhouchenyu/Documents/code/games/tetris/build",
+  "command": "C:\\Users\\zhouchenyu\\scoop\\apps\\mingw-winlibs\\current\\bin\\g++.exe   -g -o CMakeFiles\\tetris.dir\\main.cc.obj -c C:\\Users\\zhouchenyu\\Documents\\code\\games\\tetris\\main.cc",
+  "file": "C:/Users/zhouchenyu/Documents/code/games/tetris/main.cc",
+  "output": "CMakeFiles/tetris.dir/main.cc.obj"
+},
+{
+  "directory": "C:/Users/zhouchenyu/Documents/code/games/tetris/build",
+  "command": "C:\\Users\\zhouchenyu\\scoop\\apps\\mingw-winlibs\\current\\bin\\g++.exe   -g -o CMakeFiles\\tetris.dir\\tcontrol.cc.obj -c C:\\Users\\zhouchenyu\\Documents\\code\\games\\tetris\\tcontrol.cc",
+  "file": "C:/Users/zhouchenyu/Documents/code/games/tetris/tcontrol.cc",
+  "output": "CMakeFiles/tetris.dir/tcontrol.cc.obj"
+}
+]
